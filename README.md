@@ -1,3 +1,3 @@
 # My website made in react
 
-![Preview](https://i.imgur.com/bWdZr9c.png)
+![Preview](https://i.imgur.com/NYyJtvT.png)
